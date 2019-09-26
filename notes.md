@@ -1,0 +1,6 @@
+- Go over the static site files.
+- Explain the functions folder and the function inside.
+- Explain the netlify.toml file.
+- Run the site on `netlify dev` in the terminal.
+- Deploy the site with `netlify deploy` in the terminal.
+- Show live version on the web.
